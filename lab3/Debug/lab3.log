@@ -1,0 +1,4 @@
+﻿  Railroad.cpp
+c:\users\александр сергеевич\desktop\проекты\ооп (4 семестр)\лабораторная работа №3\lab3\lab3\bintree.h(424): warning C4715: BinTree<Train>::searching: значение возвращается не при всех путях выполнения
+  lab3.vcxproj -> C:\Users\Александр Сергеевич\Desktop\Проекты\ООП (4 семестр)\Лабораторная работа №3\lab3\Debug\lab3.exe
+  lab3.vcxproj -> C:\Users\Александр Сергеевич\Desktop\Проекты\ООП (4 семестр)\Лабораторная работа №3\lab3\Debug\lab3.pdb (Partial PDB)
